@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1706630316416,
@@ -16,6 +16,10 @@
                 {
                     "date": 1706631118287,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,8 +10,9 @@\n <main>\r\n     <!-- <h1>Number: <span id=\"number\">0</span></h1>\r\n     <button onclick=\"increment()\">+</button>\r\n     <button onclick=\"decrement()\">-</button> -->\r\n+    <p>Test. To delete</p>\r\n </main>\r\n     <script src=\"scripts/incrementor.js\"></script>\r\n </body>\r\n \r\n"
+                },
+                {
+                    "date": 1706631159569,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,8 @@\n <main>\r\n     <!-- <h1>Number: <span id=\"number\">0</span></h1>\r\n     <button onclick=\"increment()\">+</button>\r\n     <button onclick=\"decrement()\">-</button> -->\r\n-    <p>Test. To delete</p>\r\n </main>\r\n     <script src=\"scripts/incrementor.js\"></script>\r\n </body>\r\n \r\n"
                 }
             ],
             "date": 1706630316416,
