@@ -1,3 +1,4 @@
 # counter-js
-# counter-js
-# counter-js
+
+# Made this in JavaScript only
+# For learning purposes
